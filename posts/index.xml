@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice Content is Property of Greg Silverstein all rights reseved.</copyright>
-    <lastBuildDate>Sun, 24 May 2020 22:26:17 -0400</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2020 23:00:15 -0400</lastBuildDate>
     
 	<atom:link href="https://gsilvers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Post_two</title>
+      <link>https://gsilvers.github.io/posts/post_two/</link>
+      <pubDate>Sun, 24 May 2020 23:00:15 -0400</pubDate>
+      
+      <guid>https://gsilvers.github.io/posts/post_two/</guid>
+      <description>Testing markdown support for static images from github</description>
+    </item>
     
     <item>
       <title>Post_one</title>
