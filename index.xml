@@ -13,20 +13,29 @@
     
     
     <item>
-      <title>Post_two</title>
-      <link>https://gsilvers.github.io/posts/post_two/</link>
+      <title>Connecting DBeaver to Oracle Free Cloud Tier Database (With Keyfiles)</title>
+      <link>https://gsilvers.github.io/posts/09052020_oracle_dbeaver/</link>
       <pubDate>Sun, 24 May 2020 23:00:15 -0400</pubDate>
       
-      <guid>https://gsilvers.github.io/posts/post_two/</guid>
+      <guid>https://gsilvers.github.io/posts/09052020_oracle_dbeaver/</guid>
+      <description>Connecting DBeaver to Oracle Free Cloud Tier Database (With Keyfiles) It would be both wonderful but also terrible if everything were easy no?</description>
+    </item>
+    
+    <item>
+      <title>Molly</title>
+      <link>https://gsilvers.github.io/posts/05242020_molly/</link>
+      <pubDate>Sun, 24 May 2020 23:00:15 -0400</pubDate>
+      
+      <guid>https://gsilvers.github.io/posts/05242020_molly/</guid>
       <description>Testing markdown support for static images from github</description>
     </item>
     
     <item>
-      <title>Post_one</title>
-      <link>https://gsilvers.github.io/posts/post_one/</link>
+      <title>Test</title>
+      <link>https://gsilvers.github.io/posts/05242020_test/</link>
       <pubDate>Sun, 24 May 2020 22:26:17 -0400</pubDate>
       
-      <guid>https://gsilvers.github.io/posts/post_one/</guid>
+      <guid>https://gsilvers.github.io/posts/05242020_test/</guid>
       <description>Just a test post will be back more and regularly.
  Greg  </description>
     </item>
