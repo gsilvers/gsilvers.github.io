@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright notice Content is Property of Greg Silverstein all rights reseved.</copyright>
-    <lastBuildDate>Sat, 05 Sep 2020 10:00:15 -0400</lastBuildDate>
-    
-	<atom:link href="https://gsilvers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 05 Sep 2020 10:00:15 -0400</lastBuildDate><atom:link href="https://gsilvers.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Connecting DBeaver to Oracle Free Cloud Tier Database (With Keyfiles)</title>
       <link>https://gsilvers.github.io/posts/09052020_oracle_dbeaver/</link>

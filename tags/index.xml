@@ -6,10 +6,6 @@
     <description>Recent content in Tags on Greg Silverstein&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>© Copyright notice Content is Property of Greg Silverstein all rights reseved.</copyright>
-    
-	<atom:link href="https://gsilvers.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <copyright>© Copyright notice Content is Property of Greg Silverstein all rights reseved.</copyright><atom:link href="https://gsilvers.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
