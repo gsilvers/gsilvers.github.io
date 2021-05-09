@@ -28,6 +28,7 @@
     <priority>0</priority>
   </url><url>
     <loc>https://gsilvers.github.io/projects/</loc>
+    <priority>0</priority>
   </url><url>
     <loc>https://gsilvers.github.io/tags/</loc>
   </url>
